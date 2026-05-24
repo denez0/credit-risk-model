@@ -1,7 +1,7 @@
 """
 Credit Risk Classification Model
 Author: Denys Yakovliev
-Purpose: Internship application - Credit Risk Modeling (PD/LGD/EAD)
+Purpose: Internship application - Credit Risk Modeling
 Date: 2026
 
 A binary classification model predicting default risk using synthetic data.
