@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+venv/
+env/
+*.png
+!roc_curves.png
+!confusion_matrix.png
+!feature_importance.png
+.DS_Store
